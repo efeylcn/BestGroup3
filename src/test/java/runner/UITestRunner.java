@@ -8,10 +8,10 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 
         plugin = {"html:target/cucumberHTML-report", "pretty", "json:target/cucumber.json"},
-        features = {"src/test/resorces/uiFeatures/AddingOrder.feature"},
+        features = {"src/test/resources/Features/UI_Post.feature"},
         glue = "stepDefs",
         dryRun = false,
-        tags ="@tags=Test-12"
+        tags ="@tag=TEST-1"
 
 )
 public class UITestRunner {
