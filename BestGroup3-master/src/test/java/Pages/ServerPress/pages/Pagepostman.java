@@ -1,6 +1,7 @@
 package Pages.ServerPress.pages;
 
-import API.ServerPress.Utilities.Driver;
+
+import Pages.ServerPress.Utilities.Driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
