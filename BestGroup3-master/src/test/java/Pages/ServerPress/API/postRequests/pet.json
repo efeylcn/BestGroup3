@@ -1,0 +1,14 @@
+{
+  "id" : 888,
+  "category" : {
+    "id" : 111,
+    "name" : "paw patrol"
+  },
+  "name" : "pupsik",
+  "photoUrls" : [ "www.google.com" ],
+  "tags" : [ {
+    "id" : 999,
+    "name" : "tags name"
+  } ],
+  "status" : "avaiable"
+}
